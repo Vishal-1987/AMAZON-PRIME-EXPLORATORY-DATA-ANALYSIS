@@ -5,3 +5,10 @@
 
 # AIM:
 ### The project aims to analyze Amazon Prime Video’s content library to understand patterns in movies and TV shows based on genre, ratings, release trends, and audience preferences. Through exploratory data analysis(EDA), the goal is to extract meaningful insights that can help improve content decisions and user engagement strategies.
+
+# DATA CLEANING:
+## 1: Upload and merge the given dataset.
+## 2: check null value and remove them.
+## 3: check data type of each column.
+
+# DATA VISUALIZATION:
