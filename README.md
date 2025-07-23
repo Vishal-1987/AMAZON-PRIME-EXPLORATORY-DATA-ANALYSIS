@@ -11,22 +11,17 @@
 ### 2: check null value and remove them.
 ### 3: check data type of each column.
 
-# DATA VISUALIZATION QUESTIONS:
-### 1: Distribution of content types (Movies vs Shows)?
-### 2: Number of titles released changed over the years.
-### 3: What are the top 10 most common genres
-### 4: Top 5 countries with most content
-### 5: Top 5 age certifications?
-### 6: Correlation heatmap between IMDb scores and TMDB scores
-### 7: Relationship between runtime and IMDb score
-### 8: Distribution of IMDb scores and TMDB scores?
-### 9: Top 5 genres with the highest average IMDb score
-### 10: Year wise average ratings
-### 11: Genres with high average tmdb popularity
-### 12: Top 5 countries by number of highly-rated titles.
-### 13: Genre has the most diverse IMDb scores?
-### 14: Correlation between runtime and IMDb score
-### 15: Relationship between IMDb score, TMDB score, runtime, and TMDB popularity
+# SAMPLE DATA VISUALIZATION QUESTIONS:
+### 1: What are the top 10 most common genres
+<img width="1337" height="658" alt="intern 1" src="https://github.com/user-attachments/assets/6c557a6d-9580-48a5-adc4-294bffe85545" />
+### 2: Correlation heatmap between IMDb scores and TMDB scores
+<img width="800" height="556" alt="intern 2" src="https://github.com/user-attachments/assets/000af854-fc1b-47cd-9c8c-4cb89e047a1c" />
+### 3: Genre has the most diverse IMDb scores?
+<img width="1472" height="667" alt="intern 3" src="https://github.com/user-attachments/assets/4be1628e-e954-49f2-a847-154a445cc85f" />
+### 4: Year wise average ratings
+<img width="701" height="557" alt="intern 4" src="https://github.com/user-attachments/assets/0a378d53-e5ec-4be0-9d61-c27960688573" />
+### 5: Genres with high average tmdb popularity
+<img width="1378" height="577" alt="intern 5" src="https://github.com/user-attachments/assets/dbf4d0c0-7734-4a16-8e09-1dbf5f98f0e0" />
 
 # CONCLUSION:
 #### Based on the analysis we found that runtime has very little effect on IMDB scores. It means that just making a movie or show longer doesn’t guarantee higher ratings.
